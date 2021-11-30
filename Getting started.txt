@@ -2,4 +2,6 @@ A quick test of the GitHub tools.
 
 Yet another line of crappy text. This is pointless.
 
+New line.
+
 End.
